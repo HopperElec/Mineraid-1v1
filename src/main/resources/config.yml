@@ -1,0 +1,17 @@
+waitingAreaX: 0
+waitingAreaY: 128
+waitingAreaZ: 0
+waitingAreaPitch: 0
+waitingAreaYaw: 0
+
+player1X: 5
+player1Y: 32
+player1Z: 0
+player1Pitch: 0
+player1Yaw: 0
+
+player2X: -5
+player2Y: 32
+player2Z: 0
+player2Pitch: 0
+player2Yaw: 0

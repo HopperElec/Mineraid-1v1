@@ -1,0 +1,3 @@
+name: Mineraid1v1
+version: ${project.version}
+main: uk.co.hopperelec.mc.mineraid1v1.Mineraid1v1
